@@ -1,6 +1,6 @@
 # type-level-fib
 
-_An exercise in the futility of type systems._
+_An exercise in the power and futility of type systems._
 
 This program finds very large fibonacci sums at compile time using the power of the Haskell type system. I made this at 1:30 AM on a night I _really_ should have been doing homework.
 
